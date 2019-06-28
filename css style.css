@@ -1,0 +1,21 @@
+<style>
+    h1 {
+    color: crimson;
+    font-size: 1
+    font-size
+    }
+
+    .block {
+    color:red;
+    margin: 30px 100px;
+    border width: 30px;
+    margin left: 200px;
+    }
+    p {
+        display:inline-block
+    }
+</style>
+
+.cobaCss: hover {
+    tranform: scale(1,2) skew (45deg);
+}

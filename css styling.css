@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>styling</title>
+        <link href="style.css" rel="stylesheet" media="style">
+        <link href="style print.css" rel="style sheet" media="print">
+    </head>
+    <body>
+        <div>
+            <div class="block">
+                <h2 class="cobaCss">coba Css pake h2</h2>
+            </div>
+            <h2 class="cobaCss">coba Css pake h2</h2>
+                <h1 style="color:darkgreen font-size: 100px"> apply css from tag</h1>
+            
+            <div style="background-color:blanchedalmond>  
+            <h1 class="turunan CobaCss"></h1> 
+        </div>
+    </body> 
+</html>
